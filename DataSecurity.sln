@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RSASecurity", "RSASecurity\RSASecurity.vcxproj", "{28BC03C1-F7AA-470D-B3B9-B5C92D160FA6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DesSecurity", "DesSecurity\DesSecurity.vcxproj", "{F56C4028-47EF-4F30-B667-E2E5D80D7046}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataCheck", "DataCheck\DataCheck.vcxproj", "{0B61DFA2-4882-41A2-89A5-DC91FAA17D0D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataSecurity", "DataSecurity\DataSecurity.vcxproj", "{B027A83A-44BE-4996-9B0E-6EBD4AF2D330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BC03C1-F7AA-470D-B3B9-B5C92D160FA6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{28BC03C1-F7AA-470D-B3B9-B5C92D160FA6}.Debug|Win32.Build.0 = Debug|Win32
+		{28BC03C1-F7AA-470D-B3B9-B5C92D160FA6}.Release|Win32.ActiveCfg = Release|Win32
+		{28BC03C1-F7AA-470D-B3B9-B5C92D160FA6}.Release|Win32.Build.0 = Release|Win32
+		{F56C4028-47EF-4F30-B667-E2E5D80D7046}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F56C4028-47EF-4F30-B667-E2E5D80D7046}.Debug|Win32.Build.0 = Debug|Win32
+		{F56C4028-47EF-4F30-B667-E2E5D80D7046}.Release|Win32.ActiveCfg = Release|Win32
+		{F56C4028-47EF-4F30-B667-E2E5D80D7046}.Release|Win32.Build.0 = Release|Win32
+		{0B61DFA2-4882-41A2-89A5-DC91FAA17D0D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B61DFA2-4882-41A2-89A5-DC91FAA17D0D}.Debug|Win32.Build.0 = Debug|Win32
+		{0B61DFA2-4882-41A2-89A5-DC91FAA17D0D}.Release|Win32.ActiveCfg = Release|Win32
+		{0B61DFA2-4882-41A2-89A5-DC91FAA17D0D}.Release|Win32.Build.0 = Release|Win32
+		{B027A83A-44BE-4996-9B0E-6EBD4AF2D330}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B027A83A-44BE-4996-9B0E-6EBD4AF2D330}.Debug|Win32.Build.0 = Debug|Win32
+		{B027A83A-44BE-4996-9B0E-6EBD4AF2D330}.Release|Win32.ActiveCfg = Release|Win32
+		{B027A83A-44BE-4996-9B0E-6EBD4AF2D330}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
